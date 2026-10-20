@@ -1,0 +1,7982 @@
+[
+  {
+    "id": "awl_0001",
+    "word": "abandon",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0002",
+    "word": "abstract",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0003",
+    "word": "academy",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0004",
+    "word": "access",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0005",
+    "word": "accommodate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0006",
+    "word": "accompany",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0007",
+    "word": "accumulate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0008",
+    "word": "accurate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0009",
+    "word": "achieve",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0010",
+    "word": "acknowledge",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0011",
+    "word": "acquire",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0012",
+    "word": "adapt",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0013",
+    "word": "adequate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0014",
+    "word": "adjacent",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0015",
+    "word": "adjust",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0016",
+    "word": "administration",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0017",
+    "word": "adult",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0018",
+    "word": "advocate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0019",
+    "word": "affect",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0020",
+    "word": "aggregate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0021",
+    "word": "aid",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0022",
+    "word": "albeit",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0023",
+    "word": "allocate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0024",
+    "word": "alter",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0025",
+    "word": "alternative",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0026",
+    "word": "ambiguous",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0027",
+    "word": "amend",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0028",
+    "word": "analogy",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0029",
+    "word": "analyse",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0030",
+    "word": "annual",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0031",
+    "word": "anticipate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0032",
+    "word": "apparent",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0033",
+    "word": "append",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0034",
+    "word": "appreciate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0035",
+    "word": "approach",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0036",
+    "word": "appropriate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0037",
+    "word": "approximate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0038",
+    "word": "arbitrary",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0039",
+    "word": "area",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0040",
+    "word": "aspect",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0041",
+    "word": "assemble",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0042",
+    "word": "assess",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0043",
+    "word": "assign",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0044",
+    "word": "assist",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0045",
+    "word": "assume",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0046",
+    "word": "assure",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0047",
+    "word": "attach",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0048",
+    "word": "attain",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0049",
+    "word": "attitude",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0050",
+    "word": "attribute",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0051",
+    "word": "author",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0052",
+    "word": "authority",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0053",
+    "word": "automate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0054",
+    "word": "available",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0055",
+    "word": "aware",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0056",
+    "word": "behalf",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0057",
+    "word": "benefit",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0058",
+    "word": "bias",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0059",
+    "word": "bond",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0060",
+    "word": "brief",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0061",
+    "word": "bulk",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0062",
+    "word": "capable",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0063",
+    "word": "capacity",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0064",
+    "word": "category",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0065",
+    "word": "cease",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0066",
+    "word": "challenge",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0067",
+    "word": "channel",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0068",
+    "word": "chapter",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0069",
+    "word": "chart",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0070",
+    "word": "chemical",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0071",
+    "word": "circumstance",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0072",
+    "word": "cite",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0073",
+    "word": "civil",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0074",
+    "word": "clarify",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0075",
+    "word": "classic",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0076",
+    "word": "clause",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0077",
+    "word": "code",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0078",
+    "word": "coherent",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0079",
+    "word": "coincide",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0080",
+    "word": "collapse",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0081",
+    "word": "colleague",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0082",
+    "word": "commence",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0083",
+    "word": "comment",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0084",
+    "word": "commission",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0085",
+    "word": "commit",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0086",
+    "word": "commodity",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0087",
+    "word": "communicate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0088",
+    "word": "community",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0089",
+    "word": "compatible",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0090",
+    "word": "compensate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0091",
+    "word": "compile",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0092",
+    "word": "complement",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0093",
+    "word": "complex",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0094",
+    "word": "component",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0095",
+    "word": "compound",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0096",
+    "word": "comprehensive",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0097",
+    "word": "comprise",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0098",
+    "word": "compute",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0099",
+    "word": "conceive",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0100",
+    "word": "concentrate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0101",
+    "word": "concept",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0102",
+    "word": "conclude",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0103",
+    "word": "concurrent",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0104",
+    "word": "conduct",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0105",
+    "word": "confer",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0106",
+    "word": "confine",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0107",
+    "word": "confirm",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0108",
+    "word": "conflict",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0109",
+    "word": "conform",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0110",
+    "word": "consent",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0111",
+    "word": "consequent",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0112",
+    "word": "considerable",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0113",
+    "word": "consist",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0114",
+    "word": "constant",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0115",
+    "word": "constitute",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0116",
+    "word": "constrain",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0117",
+    "word": "construct",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0118",
+    "word": "consult",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0119",
+    "word": "consume",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0120",
+    "word": "contact",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0121",
+    "word": "contemporary",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0122",
+    "word": "context",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0123",
+    "word": "contract",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0124",
+    "word": "contradict",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0125",
+    "word": "contrary",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0126",
+    "word": "contrast",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0127",
+    "word": "contribute",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0128",
+    "word": "controversy",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0129",
+    "word": "convene",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0130",
+    "word": "converse",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0131",
+    "word": "convert",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0132",
+    "word": "convince",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0133",
+    "word": "cooperate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0134",
+    "word": "coordinate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0135",
+    "word": "core",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0136",
+    "word": "corporate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0137",
+    "word": "correspond",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0138",
+    "word": "couple",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0139",
+    "word": "create",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0140",
+    "word": "credit",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0141",
+    "word": "criteria",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0142",
+    "word": "crucial",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0143",
+    "word": "culture",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0144",
+    "word": "currency",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0145",
+    "word": "cycle",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0146",
+    "word": "data",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0147",
+    "word": "debate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0148",
+    "word": "decade",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0149",
+    "word": "decline",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0150",
+    "word": "deduce",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0151",
+    "word": "define",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0152",
+    "word": "definite",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0153",
+    "word": "demonstrate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0154",
+    "word": "denote",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0155",
+    "word": "deny",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0156",
+    "word": "depress",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0157",
+    "word": "derive",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0158",
+    "word": "design",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0159",
+    "word": "despite",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0160",
+    "word": "detect",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0161",
+    "word": "deviate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0162",
+    "word": "device",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0163",
+    "word": "devote",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0164",
+    "word": "differentiate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0165",
+    "word": "dimension",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0166",
+    "word": "diminish",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0167",
+    "word": "discrete",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0168",
+    "word": "discriminate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0169",
+    "word": "displace",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0170",
+    "word": "display",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0171",
+    "word": "dispose",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0172",
+    "word": "distinct",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0173",
+    "word": "distort",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0174",
+    "word": "distribute",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0175",
+    "word": "diverse",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0176",
+    "word": "document",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0177",
+    "word": "domain",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0178",
+    "word": "domestic",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0179",
+    "word": "dominate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0180",
+    "word": "draft",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0181",
+    "word": "drama",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0182",
+    "word": "duration",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0183",
+    "word": "dynamic",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0184",
+    "word": "economy",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0185",
+    "word": "edit",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0186",
+    "word": "element",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0187",
+    "word": "eliminate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0188",
+    "word": "emerge",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0189",
+    "word": "emphasis",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0190",
+    "word": "empirical",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0191",
+    "word": "enable",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0192",
+    "word": "encounter",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0193",
+    "word": "energy",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0194",
+    "word": "enforce",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0195",
+    "word": "enhance",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0196",
+    "word": "enormous",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0197",
+    "word": "ensure",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0198",
+    "word": "entity",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0199",
+    "word": "environment",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0200",
+    "word": "equate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0201",
+    "word": "equip",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0202",
+    "word": "equivalent",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0203",
+    "word": "erode",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0204",
+    "word": "error",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0205",
+    "word": "establish",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0206",
+    "word": "estate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0207",
+    "word": "estimate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0208",
+    "word": "ethic",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0209",
+    "word": "ethnic",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0210",
+    "word": "evaluate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0211",
+    "word": "eventual",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0212",
+    "word": "evident",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0213",
+    "word": "evolve",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0214",
+    "word": "exceed",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0215",
+    "word": "exclude",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0216",
+    "word": "exhibit",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0217",
+    "word": "expand",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0218",
+    "word": "expert",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0219",
+    "word": "explicit",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0220",
+    "word": "exploit",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0221",
+    "word": "export",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0222",
+    "word": "expose",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0223",
+    "word": "external",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0224",
+    "word": "extract",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0225",
+    "word": "facilitate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0226",
+    "word": "factor",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0227",
+    "word": "feature",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0228",
+    "word": "federal",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0229",
+    "word": "fee",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0230",
+    "word": "file",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0231",
+    "word": "final",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0232",
+    "word": "finance",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0233",
+    "word": "finite",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0234",
+    "word": "flexible",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0235",
+    "word": "fluctuate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0236",
+    "word": "focus",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0237",
+    "word": "format",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0238",
+    "word": "formula",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0239",
+    "word": "forthcoming",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0240",
+    "word": "foundation",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0241",
+    "word": "found",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0242",
+    "word": "framework",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0243",
+    "word": "function",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0244",
+    "word": "fund",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0245",
+    "word": "fundamental",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0246",
+    "word": "furthermore",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0247",
+    "word": "gender",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0248",
+    "word": "generate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0249",
+    "word": "generation",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0250",
+    "word": "globe",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0251",
+    "word": "goal",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0252",
+    "word": "grade",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0253",
+    "word": "grant",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0254",
+    "word": "guarantee",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0255",
+    "word": "guideline",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0256",
+    "word": "hence",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0257",
+    "word": "hierarchy",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0258",
+    "word": "highlight",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0259",
+    "word": "hypothesis",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0260",
+    "word": "identical",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0261",
+    "word": "identify",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0262",
+    "word": "ideology",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0263",
+    "word": "ignorance",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0264",
+    "word": "illustrate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0265",
+    "word": "image",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0266",
+    "word": "immigrate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0267",
+    "word": "impact",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0268",
+    "word": "implement",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0269",
+    "word": "implicate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0270",
+    "word": "implicit",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0271",
+    "word": "imply",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0272",
+    "word": "impose",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0273",
+    "word": "incentive",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0274",
+    "word": "incidence",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0275",
+    "word": "incline",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0276",
+    "word": "income",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0277",
+    "word": "incorporate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0278",
+    "word": "index",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0279",
+    "word": "indicate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0280",
+    "word": "individual",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0281",
+    "word": "induce",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0282",
+    "word": "inevitable",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0283",
+    "word": "infer",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0284",
+    "word": "infrastructure",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0285",
+    "word": "inherent",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0286",
+    "word": "inhibit",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0287",
+    "word": "initial",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0288",
+    "word": "initiate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0289",
+    "word": "injure",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0290",
+    "word": "innovate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0291",
+    "word": "input",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0292",
+    "word": "insert",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0293",
+    "word": "insight",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0294",
+    "word": "inspect",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0295",
+    "word": "instance",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0296",
+    "word": "institute",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0297",
+    "word": "instruct",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0298",
+    "word": "integral",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0299",
+    "word": "integrate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0300",
+    "word": "integrity",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0301",
+    "word": "intelligence",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0302",
+    "word": "intense",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0303",
+    "word": "interact",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0304",
+    "word": "intermediate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0305",
+    "word": "internal",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0306",
+    "word": "interpret",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0307",
+    "word": "interval",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0308",
+    "word": "intervene",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0309",
+    "word": "intrinsic",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0310",
+    "word": "invest",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0311",
+    "word": "investigate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0312",
+    "word": "invoke",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0313",
+    "word": "involve",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0314",
+    "word": "isolate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0315",
+    "word": "issue",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0316",
+    "word": "item",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0317",
+    "word": "job",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0318",
+    "word": "journal",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0319",
+    "word": "justify",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0320",
+    "word": "label",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0321",
+    "word": "labour",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0322",
+    "word": "layer",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0323",
+    "word": "lecture",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0324",
+    "word": "legal",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0325",
+    "word": "legislate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0326",
+    "word": "levy",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0327",
+    "word": "liberal",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0328",
+    "word": "licence",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0329",
+    "word": "likewise",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0330",
+    "word": "link",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0331",
+    "word": "locate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0332",
+    "word": "logic",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0333",
+    "word": "maintain",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0334",
+    "word": "major",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0335",
+    "word": "manipulate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0336",
+    "word": "manual",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0337",
+    "word": "margin",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0338",
+    "word": "mature",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0339",
+    "word": "maximise",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0340",
+    "word": "mechanism",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0341",
+    "word": "media",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0342",
+    "word": "mediate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0343",
+    "word": "medical",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0344",
+    "word": "medium",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0345",
+    "word": "mental",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0346",
+    "word": "method",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0347",
+    "word": "migrate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0348",
+    "word": "military",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0349",
+    "word": "minimal",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0350",
+    "word": "minimise",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0351",
+    "word": "minimum",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0352",
+    "word": "ministry",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0353",
+    "word": "minor",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0354",
+    "word": "mode",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0355",
+    "word": "modify",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0356",
+    "word": "monitor",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0357",
+    "word": "motive",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0358",
+    "word": "mutual",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0359",
+    "word": "negate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0360",
+    "word": "network",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0361",
+    "word": "neutral",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0362",
+    "word": "nevertheless",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0363",
+    "word": "nonetheless",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0364",
+    "word": "norm",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0365",
+    "word": "normal",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0366",
+    "word": "notion",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0367",
+    "word": "notwithstanding",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0368",
+    "word": "nuclear",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0369",
+    "word": "objective",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0370",
+    "word": "obtain",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0371",
+    "word": "obvious",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0372",
+    "word": "occupy",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0373",
+    "word": "occur",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0374",
+    "word": "odd",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0375",
+    "word": "offset",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0376",
+    "word": "ongoing",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0377",
+    "word": "option",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0378",
+    "word": "orient",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0379",
+    "word": "outcome",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0380",
+    "word": "output",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0381",
+    "word": "overall",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0382",
+    "word": "overlap",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0383",
+    "word": "overseas",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0384",
+    "word": "panel",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0385",
+    "word": "paradigm",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0386",
+    "word": "paragraph",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0387",
+    "word": "parallel",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0388",
+    "word": "parameter",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0389",
+    "word": "participate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0390",
+    "word": "partner",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0391",
+    "word": "passive",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0392",
+    "word": "perceive",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0393",
+    "word": "percent",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0394",
+    "word": "period",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0395",
+    "word": "persist",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0396",
+    "word": "perspective",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0397",
+    "word": "phase",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0398",
+    "word": "phenomenon",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0399",
+    "word": "philosophy",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0400",
+    "word": "physical",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0401",
+    "word": "plus",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0402",
+    "word": "policy",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0403",
+    "word": "portion",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0404",
+    "word": "pose",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0405",
+    "word": "positive",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0406",
+    "word": "potential",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0407",
+    "word": "practitioner",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0408",
+    "word": "precede",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0409",
+    "word": "precise",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0410",
+    "word": "predict",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0411",
+    "word": "predominant",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0412",
+    "word": "preliminary",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0413",
+    "word": "presume",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0414",
+    "word": "previous",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0415",
+    "word": "primary",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0416",
+    "word": "prime",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0417",
+    "word": "principal",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0418",
+    "word": "principle",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0419",
+    "word": "prior",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0420",
+    "word": "priority",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0421",
+    "word": "proceed",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0422",
+    "word": "process",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0423",
+    "word": "professional",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0424",
+    "word": "prohibit",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0425",
+    "word": "project",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0426",
+    "word": "promote",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0427",
+    "word": "proportion",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0428",
+    "word": "prospect",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0429",
+    "word": "protocol",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0430",
+    "word": "psychology",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0431",
+    "word": "publication",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0432",
+    "word": "publish",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0433",
+    "word": "purchase",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0434",
+    "word": "pursue",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0435",
+    "word": "qualitative",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0436",
+    "word": "quote",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0437",
+    "word": "radical",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0438",
+    "word": "random",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0439",
+    "word": "range",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0440",
+    "word": "ratio",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0441",
+    "word": "rational",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0442",
+    "word": "react",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0443",
+    "word": "recover",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0444",
+    "word": "refine",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0445",
+    "word": "regime",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0446",
+    "word": "region",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0447",
+    "word": "register",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0448",
+    "word": "regulate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0449",
+    "word": "reinforce",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0450",
+    "word": "reject",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0451",
+    "word": "relax",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0452",
+    "word": "release",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0453",
+    "word": "relevant",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0454",
+    "word": "reluctance",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0455",
+    "word": "rely",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0456",
+    "word": "remove",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0457",
+    "word": "require",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0458",
+    "word": "research",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0459",
+    "word": "reside",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0460",
+    "word": "resolve",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0461",
+    "word": "resource",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0462",
+    "word": "respond",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0463",
+    "word": "restore",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0464",
+    "word": "restrain",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0465",
+    "word": "restrict",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0466",
+    "word": "retain",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0467",
+    "word": "reveal",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0468",
+    "word": "revenue",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0469",
+    "word": "reverse",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0470",
+    "word": "revise",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0471",
+    "word": "revolution",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0472",
+    "word": "rigid",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0473",
+    "word": "role",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0474",
+    "word": "route",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0475",
+    "word": "scenario",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0476",
+    "word": "schedule",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0477",
+    "word": "scheme",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0478",
+    "word": "scope",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0479",
+    "word": "section",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0480",
+    "word": "sector",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0481",
+    "word": "secure",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0482",
+    "word": "seek",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0483",
+    "word": "select",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0484",
+    "word": "sequence",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0485",
+    "word": "series",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0486",
+    "word": "sex",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0487",
+    "word": "shift",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0488",
+    "word": "significant",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0489",
+    "word": "similar",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0490",
+    "word": "simulate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0491",
+    "word": "site",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0492",
+    "word": "so-called",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0493",
+    "word": "sole",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0494",
+    "word": "somewhat",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0495",
+    "word": "source",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0496",
+    "word": "specific",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0497",
+    "word": "specify",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0498",
+    "word": "sphere",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0499",
+    "word": "stable",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0500",
+    "word": "statistic",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0501",
+    "word": "status",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0502",
+    "word": "straightforward",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0503",
+    "word": "strategy",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0504",
+    "word": "stress",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0505",
+    "word": "structure",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0506",
+    "word": "style",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0507",
+    "word": "submit",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0508",
+    "word": "subordinate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0509",
+    "word": "subsequent",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0510",
+    "word": "subsidy",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0511",
+    "word": "substitute",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0512",
+    "word": "successor",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0513",
+    "word": "sufficient",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0514",
+    "word": "sum",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0515",
+    "word": "summary",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0516",
+    "word": "supplement",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0517",
+    "word": "survey",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0518",
+    "word": "survive",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0519",
+    "word": "suspend",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0520",
+    "word": "sustain",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0521",
+    "word": "symbol",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0522",
+    "word": "tape",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0523",
+    "word": "target",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0524",
+    "word": "task",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0525",
+    "word": "team",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0526",
+    "word": "technical",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0527",
+    "word": "technique",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0528",
+    "word": "technology",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0529",
+    "word": "temporary",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0530",
+    "word": "tense",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0531",
+    "word": "terminate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0532",
+    "word": "text",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0533",
+    "word": "theme",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0534",
+    "word": "theory",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0535",
+    "word": "thereby",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0536",
+    "word": "thesis",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0537",
+    "word": "topic",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0538",
+    "word": "trace",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0539",
+    "word": "tradition",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0540",
+    "word": "transfer",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 2,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0541",
+    "word": "transform",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0542",
+    "word": "transit",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0543",
+    "word": "transmit",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0544",
+    "word": "transport",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0545",
+    "word": "trend",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0546",
+    "word": "trigger",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0547",
+    "word": "ultimate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0548",
+    "word": "undergo",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0549",
+    "word": "underlie",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0550",
+    "word": "undertake",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 4,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0551",
+    "word": "uniform",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0552",
+    "word": "unify",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0553",
+    "word": "unique",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0554",
+    "word": "utilise",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 6,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0555",
+    "word": "valid",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0556",
+    "word": "vary",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 1,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0557",
+    "word": "vehicle",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0558",
+    "word": "version",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0559",
+    "word": "via",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0560",
+    "word": "violate",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0561",
+    "word": "virtual",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0562",
+    "word": "visible",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0563",
+    "word": "vision",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 9,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0564",
+    "word": "visual",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0565",
+    "word": "volume",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 3,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0566",
+    "word": "voluntary",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 7,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0567",
+    "word": "welfare",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0568",
+    "word": "whereas",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 5,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0569",
+    "word": "whereby",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 10,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  },
+  {
+    "id": "awl_0570",
+    "word": "widespread",
+    "pos": null,
+    "meaning_zh": null,
+    "example": null,
+    "topic": [
+      "academic"
+    ],
+    "level": null,
+    "awl_sublist": 8,
+    "source": "Headwords of the Academic Word List (uploaded document)",
+    "license": "verify_before_redistribution"
+  }
+]
