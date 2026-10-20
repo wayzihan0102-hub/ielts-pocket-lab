@@ -1,0 +1,232 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f7f2">
+  <title>IELTS Pocket Lab</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: #f7f7f2;
+      color: #22251f;
+      font-family: system-ui, -apple-system, sans-serif;
+    }
+    header {
+      padding: 24px 20px 18px;
+      background: #e6eadb;
+    }
+    .brand { font-size: 13px; letter-spacing: 2px; }
+    h1 { font-size: 27px; margin: 12px 0 6px; }
+    p { line-height: 1.65; }
+    main { max-width: 680px; margin: auto; padding: 18px; }
+    nav { display: flex; gap: 8px; margin-bottom: 18px; }
+    nav button { flex: 1; padding: 11px 4px; }
+    button {
+      border: 0;
+      border-radius: 12px;
+      padding: 12px 16px;
+      background: #344b36;
+      color: white;
+      font-size: 14px;
+      cursor: pointer;
+    }
+    button:focus-visible, textarea:focus-visible {
+      outline: 3px solid #91a77d;
+      outline-offset: 2px;
+    }
+    .secondary { background: #e8e9e1; color: #263328; }
+    .card {
+      background: white;
+      border: 1px solid #e7e7df;
+      border-radius: 18px;
+      padding: 20px;
+      margin-bottom: 14px;
+    }
+    .muted { color: #6b7067; font-size: 13px; }
+    .word { font-size: 29px; margin: 12px 0; }
+    .tag {
+      display: inline-block;
+      padding: 5px 9px;
+      border-radius: 20px;
+      background: #eef1e7;
+      font-size: 12px;
+    }
+    textarea {
+      width: 100%;
+      min-height: 180px;
+      resize: vertical;
+      padding: 14px;
+      border: 1px solid #d9dbd2;
+      border-radius: 12px;
+      font: inherit;
+      line-height: 1.6;
+    }
+    .actions { display: flex; flex-wrap: wrap; gap: 8px; }
+    .panel[hidden] { display: none; }
+    footer { text-align: center; padding: 20px; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="brand">YOUR DAILY IELTS WORKSHOP</div>
+    <h1>IELTS Pocket Lab</h1>
+    <p>每天进步一点点，让英语能力真正生长。</p>
+    <span class="tag">你的雅思学习空间</span>
+  </header>
+
+  <main>
+    <nav aria-label="学习模块">
+      <button data-tab="home">首页</button>
+      <button data-tab="vocab">词汇</button>
+      <button data-tab="writing">写作</button>
+    </nav>
+
+    <section class="panel" id="home">
+      <div class="card">
+        <div class="muted">WELCOME BACK</div>
+        <h2>今天，开始学习吧。</h2>
+        <p>积累词汇，练习表达，逐步提升雅思能力。</p>
+        <p>已标记熟悉的词汇：<strong id="count">0</strong></p>
+        <button data-go="vocab">开始词汇练习</button>
+      </div>
+      <div class="card">
+        <h3>今日学习计划</h3>
+        <p>01 · 学习一个高频词汇</p>
+        <p>02 · 写一段英文表达</p>
+        <p>03 · 记录自己遇到的问题</p>
+      </div>
+      <div class="card">
+        <h3>AI 批改</h3>
+        <p>真实 AI 评分功能尚未接入。后续将接入安全的服务端接口，提供写作纠错、表达建议和口语反馈。</p>
+      </div>
+    </section>
+
+    <section class="panel" id="vocab" hidden>
+      <div class="card">
+        <div class="muted">IELTS VOCABULARY · 01</div>
+        <div class="word" id="word">significant</div>
+        <p id="meaning" hidden>显著的；重要的</p>
+        <p id="example" hidden>
+          Education plays a significant role in society.
+        </p>
+        <div class="actions">
+          <button id="reveal">查看释义和例句</button>
+          <button class="secondary" id="known">我已掌握</button>
+        </div>
+        <p class="muted" id="vocabMsg" aria-live="polite"></p>
+        <button class="secondary" id="next">下一个词</button>
+      </div>
+    </section>
+
+    <section class="panel" id="writing" hidden>
+      <div class="card">
+        <h2>写作练习</h2>
+        <p>题目：Some people believe that online learning is better than traditional classroom learning. To what extent do you agree or disagree?</p>
+        <label for="draft">写下你的英文观点或作文：</label>
+        <textarea id="draft" placeholder="In my opinion, ..."></textarea>
+        <p class="muted">草稿自动保存在当前浏览器中。</p>
+        <div class="actions">
+          <button id="save">保存草稿</button>
+          <button class="secondary" id="clear">清空草稿</button>
+        </div>
+        <p id="draftMsg" aria-live="polite"></p>
+      </div>
+      <div class="card">
+        <h3>下一阶段：真实 AI 批改</h3>
+        <p>计划分析语法、词汇、连贯性与任务回应，并给出改进建议。当前版本不会伪造 AI 评分，也不会把示范反馈当成真实批改。</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="muted">IELTS Pocket Lab · Early prototype</footer>
+
+  <script>
+    const tabs = ["home", "vocab", "writing"];
+    const words = [
+      { word: "significant", meaning: "显著的；重要的",
+        example: "Education plays a significant role in society." },
+      { word: "beneficial", meaning: "有益的",
+        example: "Regular reading is beneficial to language learning." },
+      { word: "challenge", meaning: "挑战；对……构成挑战",
+        example: "Climate change is a major challenge for society." }
+    ];
+    let wordIndex = 0;
+
+    function showTab(id) {
+      tabs.forEach(tab => {
+        document.getElementById(tab).hidden = tab !== id;
+      });
+    }
+
+    document.querySelectorAll("[data-tab]").forEach(button => {
+      button.addEventListener("click", () => showTab(button.dataset.tab));
+    });
+    document.querySelectorAll("[data-go]").forEach(button => {
+      button.addEventListener("click", () => showTab(button.dataset.go));
+    });
+
+    function getKnown() {
+      try { return JSON.parse(localStorage.getItem("ipl-known") || "[]"); }
+      catch { return []; }
+    }
+
+    function updateCount() {
+      document.getElementById("count").textContent = getKnown().length;
+    }
+
+    function renderWord() {
+      const item = words[wordIndex];
+      document.getElementById("word").textContent = item.word;
+      document.getElementById("meaning").textContent = item.meaning;
+      document.getElementById("example").textContent = item.example;
+      document.getElementById("meaning").hidden = true;
+      document.getElementById("example").hidden = true;
+      document.getElementById("vocabMsg").textContent = "";
+    }
+
+    document.getElementById("reveal").addEventListener("click", () => {
+      document.getElementById("meaning").hidden = false;
+      document.getElementById("example").hidden = false;
+    });
+
+    document.getElementById("known").addEventListener("click", () => {
+      const known = getKnown();
+      const word = words[wordIndex].word;
+      if (!known.includes(word)) known.push(word);
+      localStorage.setItem("ipl-known", JSON.stringify(known));
+      updateCount();
+      document.getElementById("vocabMsg").textContent = "已记录：" + word;
+    });
+
+    document.getElementById("next").addEventListener("click", () => {
+      wordIndex = (wordIndex + 1) % words.length;
+      renderWord();
+    });
+
+    const draft = document.getElementById("draft");
+    try { draft.value = localStorage.getItem("ipl-draft") || ""; } catch {}
+
+    document.getElementById("save").addEventListener("click", () => {
+      try {
+        localStorage.setItem("ipl-draft", draft.value);
+        document.getElementById("draftMsg").textContent = "草稿已保存在此浏览器。";
+      } catch {
+        document.getElementById("draftMsg").textContent = "保存失败，请复制并备份你的草稿。";
+      }
+    });
+
+    document.getElementById("clear").addEventListener("click", () => {
+      if (!confirm("确定清空当前草稿吗？")) return;
+      draft.value = "";
+      try { localStorage.removeItem("ipl-draft"); } catch {}
+      document.getElementById("draftMsg").textContent = "草稿已清空。";
+    });
+
+    updateCount();
+    renderWord();
+  </script>
+</body>
+</html>
