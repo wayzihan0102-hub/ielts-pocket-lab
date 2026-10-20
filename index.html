@@ -230,3 +230,159 @@
   </script>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>IELTS Pocket Lab</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: #f5f5ef;
+      color: #263328;
+      font-family: system-ui, sans-serif;
+    }
+    header {
+      padding: 28px 20px;
+      background: #e2e8d8;
+    }
+    h1 { font-size: 28px; margin-bottom: 8px; }
+    main { max-width: 640px; margin: auto; padding: 18px; }
+    nav { display: flex; gap: 8px; margin-bottom: 16px; }
+    button {
+      border: 0;
+      border-radius: 12px;
+      padding: 12px;
+      background: #354e38;
+      color: white;
+      font-size: 14px;
+    }
+    nav button { flex: 1; }
+    .card {
+      background: white;
+      padding: 20px;
+      margin-bottom: 14px;
+      border-radius: 18px;
+    }
+    .muted { color: #6b7269; font-size: 13px; }
+    .word { font-size: 30px; font-weight: 700; }
+    textarea {
+      width: 100%;
+      min-height: 170px;
+      padding: 12px;
+      border: 1px solid #ccc;
+      border-radius: 12px;
+      font: inherit;
+    }
+    .secondary { background: #e8ebe2; color: #263328; }
+    .panel[hidden] { display: none; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="muted">YOUR DAILY IELTS WORKSHOP</div>
+    <h1>IELTS Pocket Lab</h1>
+    <p>每天进步一点点，让英语能力真正生长。</p>
+  </header>
+
+  <main>
+    <nav>
+      <button data-tab="home">首页</button>
+      <button data-tab="vocab">词汇</button>
+      <button data-tab="writing">写作</button>
+    </nav>
+
+    <section class="panel" id="home">
+      <div class="card">
+        <p class="muted">WELCOME BACK</p>
+        <h2>今天，开始学习吧。</h2>
+        <p>积累词汇，练习表达，逐步提升雅思能力。</p>
+        <button data-go="vocab">开始词汇练习</button>
+      </div>
+      <div class="card">
+        <h3>AI 批改计划</h3>
+        <p>真实 AI 批改将在后续版本接入。当前版本不会伪装成真实评分。</p>
+      </div>
+    </section>
+
+    <section class="panel" id="vocab" hidden>
+      <div class="card">
+        <p class="muted">IELTS VOCABULARY</p>
+        <div class="word" id="word">significant</div>
+        <p id="meaning" hidden>显著的；重要的</p>
+        <p id="example" hidden>Education plays a significant role in society.</p>
+        <button id="reveal">查看释义和例句</button>
+        <button class="secondary" id="known">我已掌握</button>
+        <p id="vocabMsg" class="muted"></p>
+        <button class="secondary" id="next">下一个词</button>
+      </div>
+    </section>
+
+    <section class="panel" id="writing" hidden>
+      <div class="card">
+        <h2>写作练习</h2>
+        <p>Some people believe that online learning is better than traditional classroom learning. To what extent do you agree or disagree?</p>
+        <textarea id="draft" placeholder="Write your answer here..."></textarea>
+        <p class="muted">草稿保存在当前浏览器中。</p>
+        <button id="save">保存草稿</button>
+        <p id="draftMsg" aria-live="polite"></p>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    const tabs = ["home", "vocab", "writing"];
+    function showTab(id) {
+      tabs.forEach(t => document.getElementById(t).hidden = t !== id);
+    }
+    document.querySelectorAll("[data-tab]").forEach(b =>
+      b.addEventListener("click", () => showTab(b.dataset.tab))
+    );
+    document.querySelectorAll("[data-go]").forEach(b =>
+      b.addEventListener("click", () => showTab(b.dataset.go))
+    );
+
+    const words = [
+      ["significant", "显著的；重要的", "Education plays a significant role in society."],
+      ["beneficial", "有益的", "Reading is beneficial to language learning."],
+      ["challenge", "挑战", "Climate change is a major challenge for society."]
+    ];
+    let i = 0;
+    function renderWord() {
+      document.getElementById("word").textContent = words[i][0];
+      document.getElementById("meaning").textContent = words[i][1];
+      document.getElementById("example").textContent = words[i][2];
+      document.getElementById("meaning").hidden = true;
+      document.getElementById("example").hidden = true;
+    }
+    document.getElementById("reveal").onclick = () => {
+      document.getElementById("meaning").hidden = false;
+      document.getElementById("example").hidden = false;
+    };
+    document.getElementById("next").onclick = () => {
+      i = (i + 1) % words.length;
+      renderWord();
+      document.getElementById("vocabMsg").textContent = "";
+    };
+    document.getElementById("known").onclick = () => {
+      document.getElementById("vocabMsg").textContent = "已标记：" + words[i][0];
+    };
+
+    const draft = document.getElementById("draft");
+    try { draft.value = localStorage.getItem("ipl-draft") || ""; } catch {}
+    document.getElementById("save").onclick = () => {
+      try {
+        localStorage.setItem("ipl-draft", draft.value);
+        document.getElementById("draftMsg").textContent = "草稿已保存在此浏览器。";
+      } catch {
+        document.getElementById("draftMsg").textContent = "保存失败，请先复制备份。";
+      }
+    };
+    renderWord();
+  </script>
+</body>
+</html>
+
